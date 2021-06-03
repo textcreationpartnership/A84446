@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration by the Committee of Safety of the Common-wealth of England, Scotland, and Ireland, touching the payment of duties of custome and excise. Friday, Decemb. 9. 1659. Ordered, that this declaration be forthwith printed and published. Will. Robinson clerk of the Committee of Safety.</title>
+            <author>England and Wales. Committee of Safety.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84446</idno><idno type="EEBO-CITATION">99867327</idno>
+  <idno type="VID">119634</idno>
+  <idno type="EEBO-PROQUEST">2240930002</idno>
+  
+            <idno type="STC">Wing E742E</idno>
+            <idno type="STC">Thomason E1074_25</idno>
+            <idno type="STC">ESTC R208371</idno>
+            <idno type="PROQUEST">99867327</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867327e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119634)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1074[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration by the Committee of Safety of the Common-wealth of England, Scotland, and Ireland, touching the payment of duties of custome and excise. Friday, Decemb. 9. 1659. Ordered, that this declaration be forthwith printed and published. Will. Robinson clerk of the Committee of Safety.</title>
+                  <author>England and Wales. Committee of Safety.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills and John Field, printers to the Committee of Safety,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "xber [i.e. December]", "9ber"; the "9ber" is crossed through.</note>
+                  <note>Title ornament; initial letter; some text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Excise tax --  England --  Early works to 1800.</term>
+               <term type="topical_term">Tariff --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119634:1"/>
+            <p>A DECLARATION By the Committee of Safety of the Com<g ref="char:EOLhyphen"/>mon-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> Touching the Payment of the Duties of Custome and Excise.</p>
+            <figure>
+               <figDesc>blazon or coat of arms of the Commonwealth of England</figDesc>
+            </figure>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>
+                                    <hi>Friday, Decemb.</hi> 9. 1659.</date>
+                              </dateline>
+                           </opener>
+                           <p>ORdered, That this Declaration be forthwith Printed and Published.</p>
+                           <closer>
+                              <signed>WILL. ROBINSON <hi>Clerk of the Committee of Safety.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to the Committee of Safety, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:119634:2"/>
+            <pb n="1" facs="tcp:119634:2"/>
+            <head>By the Committee of Safety. A Declaration touching the Payment of the Duties of Custome and Excise.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in one Act made in the Parliament begun and held at <hi>Westminster</hi> the seventeenth day of <hi>September,</hi> One thou<g ref="char:EOLhyphen"/>sand six hundred fifty six, En<g ref="char:EOLhyphen"/>tituled, <hi>An Act for the continu<g ref="char:EOLhyphen"/>ing and Establishing the Subsidie of Tonnage and Poundage, &amp;c.</hi> there is (amongst other things) contained a Clause in these words, <hi>viz.</hi> Whereas the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in Parliament did, upon the sixteenth of <hi>December,</hi> in the year of our Lord God, One thousand six hundred forty seven, make and publish a certain Ordinance, Entituled, <hi>An Ordinance of the Lords and Commons assembled in Parliament, for establishing of the Subsidie of Tonnage and Poundage, together with the Book of Rates,</hi> to stand and continue from the six and twentieth day of <hi>March,</hi> One thousand six hundred forty eight, for certain time which is since expired; And the Parliament taking into consideration the necessity of this Com<g ref="char:EOLhyphen"/>monwealth for money to carry on the affairs thereof, and for the safeguard of the Seas, the Convoy of Merchants Ships and Goods, and the securing of Trade, do there<g ref="char:EOLhyphen"/>fore Enact, and be it Enacted and Declared by his Highness the Lord Protector, and the Parliament, and by the Authority thereof; that the said Ordinance of the sixteenth of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> One thousand six hundred forty seven, and also the Book of Rates of Merchandise
+<pb n="2" facs="tcp:119634:3"/> therein mentioned, with the Instructions thereunto annexed, and all and every the Articles, Instructions, matters, and things in them or either of them, specified and con<g ref="char:EOLhyphen"/>tained, other then such Articles, Instructi<g ref="char:EOLhyphen"/>ons, matters and things, as have been here<g ref="char:EOLhyphen"/>tofore repealed or altered, or shall by this pre<g ref="char:EOLhyphen"/>sent Act, or any other Act of this present Par<g ref="char:EOLhyphen"/>liament be repealed or altered, be and are hereby revived, and shall stand and continue to be in full force, as well within <hi>Scotland</hi> and <hi>Ireland,</hi> and the Islands thereunto belonging, as within <hi>England, Wales,</hi> and the Town of <hi>Barwick</hi> upon <hi>Twede.</hi> And in the same Act another clause is contained in these words, <hi>viz.</hi> And it is hereby further enacted, that one half part of one <hi>per cent.</hi> which is two shil<g ref="char:EOLhyphen"/>lings in every twenty shillings paid for Cu<g ref="char:EOLhyphen"/>stome and Subsidie, according to the Book of Rates, established by Authority of Parlia<g ref="char:EOLhyphen"/>ment, shall from and after the four and twen<g ref="char:EOLhyphen"/>tieth day of <hi>June,</hi> in the year of our Lord, One thousand six hundred fifty seven, be raised, levyed and paid over and above the said Cu<g ref="char:EOLhyphen"/>stome and subsidie, of and from all and every of such Goods, Wares and other Merchandi<g ref="char:EOLhyphen"/>ses, to be imported into this Commonwealth, the said sum of one half part of one <hi>per cent.</hi> to be raised, paid and continued, until the four and twentieth day of <hi>June,</hi> which will be in the year of our Lord One thousand six hun<g ref="char:EOLhyphen"/>dred and sixty; And to be received and taken by their Deputy or Deputies, and by them to be laid out, payed and employed for the re<g ref="char:EOLhyphen"/>deeming of Captives of this Commonwealth taken at Sea, by Turkish, Moorish, or other Pirates, and for no other use whatsoever, in
+<pb n="3" facs="tcp:119634:3"/> such manner as by his Highness the Lord Pro<g ref="char:EOLhyphen"/>tector, by and with the advice and consent of his Council shall be Ordered and directed. And if a<g ref="char:EOLhyphen"/>ny goods, wares, or merchandises, brought from beyond the Seas, whereof the said sum of one half part of one <hi>per Cent.</hi> is or shall be due and pay<g ref="char:EOLhyphen"/>able by virtue of this Act, shall at any time here<g ref="char:EOLhyphen"/>after be landed or put on shore, within this Com<g ref="char:EOLhyphen"/>mon-wealth before due entry thereof, and the said sum of one half part of one <hi>per Cent.</hi> due, and the same not paid and satisfied, All the said goods, wares or other merchandises whatsoever, shall be forfeited and lost; the one moyty of the value thereof to be to him or them that will seize or sue for the same, before the Barons of his Highness Exchequer, and the other moyty to be imployed for the use aforesaid. Provided always, That the whole duty of the one half of the one <hi>per Cent.</hi> for the redemption of Captives as aforesaid, as shall be paid for any goods or merchandise Imported, and as shall be afterwards exported, shall upon the exportation thereof be repaired in such man<g ref="char:EOLhyphen"/>ner, as the half Subsidy is or ought to be paid.</p>
+            <p>And whereas in one other Act made in the same Parliament, Entituled, <hi>An Additional Act for the better improvement and advancing the Receipts of the Excise and New Impost,</hi> There is, amongst other things, contained a Clause in these words, <hi>Viz.</hi> His Highness the Lord Protector, and the Par<g ref="char:EOLhyphen"/>liament, taking into serious Consideration the Engagements which at present lie upon the Re<g ref="char:EOLhyphen"/>ceipts of Excise and New Impost, and finding the imposition of the Excise to be the most easie, and indifferent Levy that can be laid upon the People, as well for and towards the discharging of those Engagements, as for the carrying on the other urgent and pressing affairs of this Com<g ref="char:EOLhyphen"/>mon-wealth,
+<pb n="4" facs="tcp:119634:4"/> and defraying the Charges of the Naval Forces thereof, in the present War with <hi>Spain,</hi> and against the common Enemy, Do there<g ref="char:EOLhyphen"/>fore, for the better advancement &amp; improvement of the said Receipt, in order to the ends aforesaid, Enact, and be it hereby Enacted by his Highness the Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging, &amp; this present Parliament assembled, and by authority thereof, That the several Rates and Charges hereafter set down in the Schedule, and according to the Book of Values hereafter mentioned, and every of them, and none other, shall be set, laid and imposed, and are hereby set, laid, and imposed, to be had, levied demanded, collected, received, recovered, &amp; paid, in and through <hi>England</hi> and <hi>Wales,</hi> and Town and Port of <hi>Barwick,</hi> and <hi>Scotland, Ireland,</hi> and the Isl<g ref="char:EOLhyphen"/>ands thereunto belonging, upon all and every the Commodities, Merchandizes &amp; Manifactures, as well Native as Forrain in the said Schedule &amp; book of values mentioned in maner following.</p>
+            <p>And whereas also in one other Act of Parlia<g ref="char:EOLhyphen"/>ment, published in print by Order of the twenty eighth day of <hi>September,</hi> One thousand six hun<g ref="char:EOLhyphen"/>dred fifty nine, Entituled, <hi>An Act for the continuance of the Customes and Excise,</hi> there is contained this Clause following, <hi>Viz.</hi> Be it Enacted, and it is hereby Enacted and Declared by this present Parliament and the Authority thereof, That the Duties and Revenue of Excise and New Impost, Customes and Subsidies, shall be, and are hereby continued to be paid by every person &amp; persons within this Common-wealth, from and after the thirtieth day of <hi>September,</hi> One thou<g ref="char:EOLhyphen"/>sand six hundred fifty nine, until the first day of <hi>January</hi> next ensuing, in such manner, and accord<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:119634:4"/> to such Rules, Rates, and Proportions as the same were paid or payable at any time with<g ref="char:EOLhyphen"/>in six Moneths next before the sixth day of <hi>May</hi> last past, or any time since.</p>
+            <p>And also in the same Act, amongst other things is contained another Clause, in these words, <hi>Viz.</hi> And that all Acts, Ordinances, Orders, and Powers, made and exercised under any Autho<g ref="char:EOLhyphen"/>rity or Power whatsoever, for or concerning the Paying, Collecting, Levying and inforcing the said Duties, before the sixth day of <hi>May</hi> last past, or any time since, are hereby Enacted, Appoint<g ref="char:EOLhyphen"/>ed, and Declared to be, and shall be in full force, for Paying, Levying, Collecting, and bringing in the said Duties, with all their Arrears to all intents and purposes, and in as large and am<g ref="char:EOLhyphen"/>ple manner, as if the same had been Enacted, and made by Authority of this present Parliament.</p>
+            <p>By which last recited Clause in the said last mentioned Act, both the before recited Acts made in the said Parliament, begun and held at West<g ref="char:EOLhyphen"/>minster, the <hi>17.</hi> day of <hi>September, 1656.</hi> &amp; all other Ordinances, Orders &amp; Powers, made before the said <hi>6.</hi> of <hi>May, 1659.</hi> or since, for the Paying, Levy<g ref="char:EOLhyphen"/>ing, Receiving, and Collecting the said Duties of Custome &amp; Excise, as well for time to come, from and after the said first day of <hi>January</hi> next, as until that time; as also the Duty of one half of one <hi>per cent.</hi> for the Redemption of Captives untill the said <hi>24,</hi> day of <hi>June, 1660.</hi> are Enacted, Appointed and Declared to be in full force.</p>
+            <p>But forasmuch as some persons, desirous to interrupt the Payment of the said Duties (upon the due payment whereof the carrying on of the affairs of the Common-wealth, aswell in guar<g ref="char:EOLhyphen"/>ding the Seas, and securing the Trade of this Commonwealth, as payment of the Armies, and
+<pb n="6" facs="tcp:119634:5"/> Forces thereof, doth chiefly depend) have given out, and do endeavour to possess the mindes of men that the said Duties are to continue onely to the first of <hi>January</hi> next, contrary to the express words of the last recited Act, wherein there is not any words to restrain the payment of the said duties of Custome and Excise to the first of <hi>January</hi> and no longer, but the said two first reci<g ref="char:EOLhyphen"/>ted Acts are expresly and fully confirmed with<g ref="char:EOLhyphen"/>out any limitation of time. For the better satis<g ref="char:EOLhyphen"/>faction of such persons, as by such undue and si<g ref="char:EOLhyphen"/>nister means, may be seduced and misled, and thereby at unawares brought under the penal<g ref="char:EOLhyphen"/>ties set and imposed by the said Acts for non-payment of the said Duties respectively, and to the end all persons concerned may be warned of the danger they may run into by any wilful or ob<g ref="char:EOLhyphen"/>stinate refusal of payment of the said Duties or any of them,</p>
+            <p>The <hi>Committee of Safety</hi> have thought fit to publish, and do hereby publish and declare, That as the said Duties of Custome and Excise, and also the said Duty of one half part of one <hi>per cent.</hi> for Redemption of Captives taken by Turkish, Moorish, or other Pirats, until the said four and twentieth day of <hi>June,</hi> One thousand six hundred and sixty, are continued and setled to be paid for the ends and purposes aforesaid: So it is expect<g ref="char:EOLhyphen"/>ed that all and every person and persons therein concerned, do duly pay the said Duties, accord<g ref="char:EOLhyphen"/>ing to the said several Acts, as they would avoid the penalties by the said Acts and Ordinances set and imposed for non payment thereof.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Fryday, December</hi> 9. 1659.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Committee of Safety That this De<g ref="char:EOLhyphen"/>claration be forthwith printed and published.</p>
+            <closer>
+               <signed>
+                  <hi>William Robinson,</hi> Clerk of the Committee of Safety.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
